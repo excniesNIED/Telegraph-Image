@@ -6,7 +6,7 @@ English|[中文](readme-zh.md)
 
 ## Deployment
 
-### Preparation
+### Preparation 
 
 The only thing you need to prepare in advance is a Cloudflare account
 
